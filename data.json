@@ -3,10 +3,5 @@
         "id": 0,
         "name": "John",
         "email": "John@google.net"
-    },
-    {
-        "id": 1,
-        "name": "Hertz",
-        "email": "Hertz@google.net"
     }
 ]
